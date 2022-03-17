@@ -27,3 +27,4 @@ React **v17.x**
 |`VITE_API_URL`|https://newsapi.org/v2|Url|
 |`VITE_API_KEY`|s3cr3t|Api Key obtained from newsapi.org|
 |`VITE_NEWS_PER_PAGE`|20|Used for pagination|
+
